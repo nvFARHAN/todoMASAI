@@ -48,3 +48,8 @@ tr > th {
   background-color: teal;
   color: white;
 }
+
+.btn {
+  cursor: pointer;
+  color: red;
+}

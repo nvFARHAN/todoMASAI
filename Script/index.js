@@ -15,4 +15,5 @@ function myFunction() {
   todoArray.push(obj);
   //   console.log(todoArray);
   localStorage.setItem("todo", JSON.stringify(todoArray));
+  window.location.reload();
 }
